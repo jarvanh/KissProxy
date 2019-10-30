@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KissProxy</string>
+    <string name="proxy_on">Proxy is on, click to off.</string>
+    <string name="proxy_off">Proxy is off, click to on.</string>
+    <string name="service_text">Proxy is running.</string>
+    <string name="proxy_started">Proxy is running.</string>
+    <string name="proxy_stopped">Proxy has stopped.</string>
+</resources>

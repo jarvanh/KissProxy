@@ -1,6 +1,7 @@
-bin
-gen
+*.iml
+.gradle
+/local.properties
+/.idea
 .DS_Store
-.git
-.svn
-lint.xml
+/build
+/captures

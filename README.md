@@ -1,33 +1,27 @@
-### Kiss Proxy for Android
+# Kiss Proxy for Android
 
-===
-
-####features
-
+## Features
 * Simple API
 * Java NIO based
 * Single thread
 * HTTP&HTTPS support
 * High performance
 
-===
-
-####Sample code
-
+## Sample code
 ```
 ProxyServer.getInstance().start();
 ProxyServer.getInstance().stop();
 ProxyServer.getInstance().isRunning();
-ProxyServer.getInstance().getPort()
+ProxyServer.getInstance().getPort
 ```
+Default port
 
-===
-#### Demo
+8964
+## Gradle
+[JitPack](https://jitpack.io/#jarvanh/KissProxy)
 
-![](http://ww1.sinaimg.cn/large/70489561gw1ehx7sw1p69j20u01hcmyz.jpg)
+## Demo
+![](https://i.loli.net/2019/10/30/hzXtQw5neV8k2FR.png)
 
-===
-Any further question?
-
-[email](mailto:coder.kiss@gmail.com) me please!
-
+## License
+[GNU GPL v3.0](https://github.com/Jarvanh/KissProxy/blob/master/LICENSE.md)
